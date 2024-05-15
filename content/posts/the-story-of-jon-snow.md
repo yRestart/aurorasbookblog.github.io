@@ -6,4 +6,4 @@ date = 2024-05-15T13:52:22-04:00
 # Jon Snow
 
 
-![JonSnow](/static/jon-snow.jpeg)
+![JonSnow](/jonsnow.jpeg)
