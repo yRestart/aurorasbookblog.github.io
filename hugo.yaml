@@ -1,6 +1,6 @@
-baseURL: https://yrestart.github.io/aurorasbookblog.github.io/
+baseURL: 192.168.1.4
 languageCode: en-us
-title: Auroras Book Blog
+title: Aurora's Book Blog
 theme: hugo-papermod
 
 params:
@@ -8,7 +8,7 @@ params:
     enabled: true
     title: Aurora Emini
     subtitle: Hello! I am a medical student with a passion for literature, and I also run a book blog in my spare time. Find more info about my life in the about me page! :)
-    imageUrl: /auroraemini.jpg
+    imageUrl: images/auroraemini.jpg/
     imageTitle: Me in my car hehe
     imageWidth: 240
     imageHeight: 240
@@ -38,4 +38,4 @@ params:
   ShowBreadCrumbs: true
   ShowReadingTime: true
   ShowToc: true
-  canonifyURLs: true
+  

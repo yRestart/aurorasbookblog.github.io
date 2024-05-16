@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Auroras Book Blog</title>
-    <link>http://localhost:1313/aurorasbookblog.github.io/posts/</link>
-    <description>Recent content in Posts on Auroras Book Blog</description>
+    <title>Posts on Aurora&#39;s Book Blog</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on Aurora&#39;s Book Blog</description>
     <generator>Hugo -- 0.126.1</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 May 2024 13:52:22 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/aurorasbookblog.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Life of Jon Snow: A Tale of Honor and Sacrifice</title>
-      <link>http://localhost:1313/aurorasbookblog.github.io/posts/the-story-of-jon-snow/</link>
+      <link>//localhost:1313/posts/the-story-of-jon-snow/</link>
       <pubDate>Wed, 15 May 2024 13:52:22 -0400</pubDate>
-      <guid>http://localhost:1313/aurorasbookblog.github.io/posts/the-story-of-jon-snow/</guid>
+      <guid>//localhost:1313/posts/the-story-of-jon-snow/</guid>
       <description>Early Life and Identity Born as the illegitimate son of Eddard Stark, the noble Warden of the North, Jon Snow&amp;rsquo;s early life is marked by the stigma of being a &amp;ldquo;bastard.&amp;rdquo; Raised alongside his trueborn siblings at Winterfell, Jon grows up feeling like an outsider, despite his father’s attempts to treat him equally. This sense of not belonging shapes Jon&amp;rsquo;s character and drives many of his decisions throughout his life.</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/aurorasbookblog.github.io/posts/my-first-post/</link>
+      <link>//localhost:1313/posts/my-first-post/</link>
       <pubDate>Tue, 14 May 2024 21:35:03 -0400</pubDate>
-      <guid>http://localhost:1313/aurorasbookblog.github.io/posts/my-first-post/</guid>
+      <guid>//localhost:1313/posts/my-first-post/</guid>
       <description>This iss my first post this is a my first test page hehe
 first seecond 3rd Dictionary : Dictionary definitions
 asdas asdasd 234234 </description>
     </item>
     <item>
       <title>Resume</title>
-      <link>http://localhost:1313/aurorasbookblog.github.io/resume/</link>
+      <link>//localhost:1313/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/aurorasbookblog.github.io/resume/</guid>
+      <guid>//localhost:1313/resume/</guid>
       <description>Resume</description>
     </item>
   </channel>
