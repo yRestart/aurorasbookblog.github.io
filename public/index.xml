@@ -4,16 +4,16 @@
     <title>Auroras Book Blog</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on Auroras Book Blog</description>
-    <generator>Hugo -- 0.125.2</generator>
+    <generator>Hugo -- 0.126.1</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 May 2024 13:52:22 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The Story of Jon Snow</title>
+      <title>The Life of Jon Snow: A Tale of Honor and Sacrifice</title>
       <link>http://localhost:1313/posts/the-story-of-jon-snow/</link>
       <pubDate>Wed, 15 May 2024 13:52:22 -0400</pubDate>
       <guid>http://localhost:1313/posts/the-story-of-jon-snow/</guid>
-      <description>Jon Snow </description>
+      <description>Early Life and Identity Born as the illegitimate son of Eddard Stark, the noble Warden of the North, Jon Snow&amp;rsquo;s early life is marked by the stigma of being a &amp;ldquo;bastard.&amp;rdquo; Raised alongside his trueborn siblings at Winterfell, Jon grows up feeling like an outsider, despite his father’s attempts to treat him equally. This sense of not belonging shapes Jon&amp;rsquo;s character and drives many of his decisions throughout his life.</description>
     </item>
     <item>
       <title>My First Post</title>
@@ -23,6 +23,20 @@
       <description>This iss my first post this is a my first test page hehe
 first seecond 3rd Dictionary : Dictionary definitions
 asdas asdasd 234234 </description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about-me/</guid>
+      <description>About Me</description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>Resume</description>
     </item>
   </channel>
 </rss>

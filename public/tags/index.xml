@@ -4,7 +4,7 @@
     <title>Tags on Auroras Book Blog</title>
     <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Auroras Book Blog</description>
-    <generator>Hugo -- 0.125.2</generator>
+    <generator>Hugo -- 0.126.1</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>

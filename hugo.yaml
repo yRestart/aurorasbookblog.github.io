@@ -1,0 +1,40 @@
+baseURL: https://192.168.1.4/
+languageCode: en-us
+title: Auroras Book Blog
+theme: hugo-papermod
+
+params:
+  profileMode:
+    enabled: true
+    title: Aurora Emini
+    subtitle: Hello! I am a medical student with a passion for literature, and I also run a book blog in my spare time. Find more info about my life in the about me page! :)
+    imageUrl: /auroraemini.jpg
+    imageTitle: Me in my car hehe
+    imageWidth: 240
+    imageHeight: 240
+
+    buttons:
+      - name: About me
+        url: /about-me
+      - name: Book Reviews
+        url: /posts
+      - name: Resume
+        url: /resume
+        
+  socialIcons:
+    - name: Instagram
+      url: https://www.instagram.com/aurora_e00/
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/aurora-e-98b675286/
+
+  outputs:
+    home:
+      - HTML
+      - RSS
+      - JSON # necessary for search
+
+
+  ShowShareButtons: true
+  ShowBreadCrumbs: true
+  ShowReadingTime: true
+  ShowToc: true
