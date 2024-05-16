@@ -8,7 +8,7 @@ params:
     enabled: true
     title: Aurora Emini
     subtitle: Hello! I am a medical student with a passion for literature, and I also run a book blog in my spare time. Find more info about my life in the about me page! :)
-    imageUrl: images/auroraemini.jpg/
+    imageUrl: https://i.ibb.co/NZD68j5/IMG-1606.jpg
     imageTitle: Me in my car hehe
     imageWidth: 240
     imageHeight: 240
