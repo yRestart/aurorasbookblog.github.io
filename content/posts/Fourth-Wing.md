@@ -1,5 +1,5 @@
 +++
-title = 'Fourth Wing'
+title = 'Fourth Wing Review'
 date = 2024-05-18T14:03:22-04:00
 +++
 
@@ -32,7 +32,7 @@ Now, I’m all for a success story of the meek girl turning badass… but this. 
 
 ## The Inconsistency in Binding:
 
-And she bonded the dragon not because of her wits or speed BUT BECAUSE TWO OTHER CADETS DECIDE TO WANT TO KILL A DRAGON?? Why would they do that? AFTER ALL THIS TALK ABOUT THE IMPORTANCE OF BINDING AND THRESHING THOSE TWO DUDES THREW IT ALL AWAY TO KILL A DRAGON!???? WHY? To risk their chance or not binding?
+And she bonded the dragon not because of her wits or speed BUT BECAUSE TWO OTHER CADETS DECIDE TO WANT TO KILL A DRAGON?? Why would they do that? AFTER ALL THIS TALK ABOUT THE IMPORTANCE OF BINDING AND THRESHING THOSE TWO DUDES THREW IT ALL AWAY TO KILL A DRAGON!???? WHY? To risk their chance of not binding?
 
 ## Conclusion:
 
