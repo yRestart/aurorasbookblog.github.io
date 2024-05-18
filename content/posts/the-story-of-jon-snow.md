@@ -3,11 +3,20 @@ title = 'The Life of Jon Snow: A Tale of Honor and Sacrifice'
 date = 2024-05-15T13:52:22-04:00
 +++
 
-![JonSnow](/images/jonsnow.jpeg)
+<style>
+img{widgth:20%;}
+</style>
+
+
+![JonSnow](/images/jonsnow.jpeg "{width='100'}")
+
+
 
 ### Early Life and Identity
 
 Born as the illegitimate son of Eddard Stark, the noble Warden of the North, Jon Snow's early life is marked by the stigma of being a "bastard." Raised alongside his trueborn siblings at Winterfell, Jon grows up feeling like an outsider, despite his father’s attempts to treat him equally. This sense of not belonging shapes Jon's character and drives many of his decisions throughout his life.
+
+
 
 ### Joining the Night's Watch
 

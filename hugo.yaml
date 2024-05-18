@@ -1,12 +1,12 @@
 baseURL: justaurora.blog
 languageCode: en-us
-title: Aurora's Book Blog
+title: Just Aurora
 theme: hugo-papermod
 
 params:
   profileMode:
     enabled: true
-    title: Aurora Emini
+    title: Aurora Emini 😊
     subtitle: Hello! I am a medical student with a passion for literature, and I also run a book blog in my spare time. Find more info about my life in the about me page! :)
     imageUrl: https://i.ibb.co/NZD68j5/IMG-1606.jpg
     imageTitle: Me in my car hehe
@@ -38,4 +38,6 @@ params:
   ShowBreadCrumbs: true
   ShowReadingTime: true
   ShowToc: true
+  enableEmoji: true
+  
   
